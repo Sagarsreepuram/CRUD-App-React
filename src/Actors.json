@@ -1,0 +1,197 @@
+{
+  "actors": [
+    {
+      "_highlightResult": {
+        "name": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "kin"
+          ],
+          "value": "<em>Kin</em>uo Yamada"
+        },
+        "names": [
+          {
+            "fullyHighlighted": false,
+            "matchLevel": "full",
+            "matchedWords": [
+              "kin"
+            ],
+            "value": "<em>Kin</em>uo Yamada"
+          }
+        ]
+      },
+      "emsId": "be79f208-6be1-314c-8c63-65f4c6af6406",
+      "filmographyCount": 35,
+      "isEmsSearchable": 1,
+      "name": "Kinuo Yamada",
+      "names": [
+        "Kinuo Yamada"
+      ],
+      "objectID": "be79f208-6be1-314c-8c63-65f4c6af6406",
+      "pageViews_popularity": 0,
+      "profileImageUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/v9/AllPhotos/600575/600575_v9_aa.jpg",
+      "recentTitleYear": "2025",
+      "rtId": 771044793,
+      "type": "Person",
+      "typeId": 1,
+      "updateDate": "2025-07-03T13:24:13.761Z",
+      "vanity": "kinuo_yamada"
+    },
+    {
+      "_highlightResult": {
+        "name": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "kin"
+          ],
+          "value": "<em>Kin</em>g Princess"
+        },
+        "names": [
+          {
+            "fullyHighlighted": false,
+            "matchLevel": "full",
+            "matchedWords": [
+              "kin"
+            ],
+            "value": "<em>Kin</em>g Princess"
+          },
+          {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Mikaela Strauss"
+          }
+        ]
+      },
+      "emsId": "a3b86145-3482-3660-a81e-83a05b0dacf4",
+      "filmographyCount": 22,
+      "isEmsSearchable": 1,
+      "name": "King Princess",
+      "names": [
+        "King Princess",
+        "Mikaela Strauss"
+      ],
+      "objectID": "a3b86145-3482-3660-a81e-83a05b0dacf4",
+      "pageViews_popularity": 0,
+      "profileImageUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/v9/AllPhotos/1177458/1177458_v9_ba.jpg",
+      "recentTitleYear": "2025",
+      "rtId": 772007104,
+      "type": "Person",
+      "typeId": 1,
+      "updateDate": "2025-07-06T18:42:21.325Z",
+      "vanity": "king_princess"
+    },
+    {
+      "_highlightResult": {
+        "name": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "kin"
+          ],
+          "value": "<em>Kin</em>gsley Iweru"
+        },
+        "names": [
+          {
+            "fullyHighlighted": false,
+            "matchLevel": "full",
+            "matchedWords": [
+              "kin"
+            ],
+            "value": "<em>Kin</em>gsley Iweru"
+          }
+        ]
+      },
+      "emsId": "8dcf147d-f604-3006-8b1c-b6bc946a48dc",
+      "filmographyCount": 11,
+      "isEmsSearchable": 1,
+      "name": "Kingsley Iweru",
+      "names": [
+        "Kingsley Iweru"
+      ],
+      "objectID": "8dcf147d-f604-3006-8b1c-b6bc946a48dc",
+      "pageViews_popularity": 0,
+      "profileImageUrl": "",
+      "recentTitleYear": "2024",
+      "type": "Person",
+      "typeId": 1,
+      "updateDate": "2025-07-10T05:04:07.158Z",
+      "vanity": "kingsley_iweru"
+    },
+    {
+      "_highlightResult": {
+        "name": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "kin"
+          ],
+          "value": "<em>Kin</em>g JBoi"
+        },
+        "names": [
+          {
+            "fullyHighlighted": false,
+            "matchLevel": "full",
+            "matchedWords": [
+              "kin"
+            ],
+            "value": "<em>Kin</em>g JBoi"
+          }
+        ]
+      },
+      "emsId": "a575cda5-49c5-367e-bbd4-fdc2156c0354",
+      "filmographyCount": 8,
+      "isEmsSearchable": 1,
+      "name": "King JBoi",
+      "names": [
+        "King JBoi"
+      ],
+      "objectID": "a575cda5-49c5-367e-bbd4-fdc2156c0354",
+      "pageViews_popularity": 0,
+      "profileImageUrl": "",
+      "recentTitleYear": "2024",
+      "type": "Person",
+      "typeId": 1,
+      "updateDate": "2025-07-06T18:23:20.070Z",
+      "vanity": "king_jboi"
+    },
+    {
+      "_highlightResult": {
+        "name": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "kin"
+          ],
+          "value": "<em>Kin</em>g Judah"
+        },
+        "names": [
+          {
+            "fullyHighlighted": false,
+            "matchLevel": "full",
+            "matchedWords": [
+              "kin"
+            ],
+            "value": "<em>Kin</em>g Judah"
+          }
+        ]
+      },
+      "emsId": "49d500e5-a842-3692-a559-ffd1f8bdeb0e",
+      "filmographyCount": 8,
+      "isEmsSearchable": 1,
+      "name": "King Judah",
+      "names": [
+        "King Judah"
+      ],
+      "objectID": "49d500e5-a842-3692-a559-ffd1f8bdeb0e",
+      "pageViews_popularity": 0,
+      "profileImageUrl": "",
+      "recentTitleYear": "2023",
+      "type": "Person",
+      "typeId": 1,
+      "updateDate": "2025-07-08T05:03:14.763Z",
+      "vanity": "king_judah"
+    }
+  ]
+}
