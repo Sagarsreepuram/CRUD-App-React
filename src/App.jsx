@@ -14,7 +14,8 @@ export default function App() {
 
   // ✅ Fetch actors from backend
   const fetchActors = () => {
-    fetch("http://localhost:3001/actors")
+    // fetch("http://localhost:3001/actors")
+    fetch("https://crud-app-react-6v09.onrender.com/actors")
       .then((res) => res.json())
       .then((data) => setActors(data))
       .catch((err) => console.error("Error fetching actors:", err));
@@ -55,7 +56,8 @@ export default function App() {
   // ✅ Update actor
   // handleUpdateActor
   const handleUpdateActor = async (updatedActor) => {
-    await fetch(`http://localhost:3001/actors/${updatedActor.emsId}`, {
+    // await fetch(`http://localhost:3001/actors/${updatedActor.emsId}`, {
+    await fetch(`https://crud-app-react-6v09.onrender.com/actors/${actor.emsId}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(updatedActor),

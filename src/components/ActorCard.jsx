@@ -20,7 +20,8 @@ export default function ActorCard({
   };
 
   const handleUpdate = async () => {
-    await fetch(`http://localhost:3001/actors/${actor.emsId}`, {
+    // await fetch(`http://localhost:3001/actors/${actor.emsId}`, {
+    await fetch(`https://crud-app-react-6v09.onrender.com/actors/${actor.emsId}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ ...actor, ...formData }), // ✅ keep emsId, imageUrl, etc
@@ -57,7 +58,8 @@ export default function ActorCard({
         variant="outlined"
         color="error"
         onClick={async () => {
-         await fetch(`http://localhost:3001/actors/${actor.emsId}`, {
+        //  await fetch(`http://localhost:3001/actors/${actor.emsId}`, {
+        await fetch(`https://crud-app-react-6v09.onrender.com/actors/${actor.emsId}`, {
             method: "DELETE",
           });
           onDelete();

@@ -45,7 +45,8 @@ export default function ActorForm({ onAdd }) {
       onSubmit={async (values, { resetForm, setSubmitting }) => {
         try {
           setSubmitting(true); // 🔹 submit started
-          const res = await fetch("http://localhost:3001/actors", {
+          // const res = await fetch("http://localhost:3001/actors", {
+          await fetch("https://crud-app-react-6v09.onrender.com/actors", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(values),
