@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import ActorForm from "./components/ActorForm";
-import SearchBar from "./components/Searchbar";
+import SearchBar from "./components/SearchBar";
 import FavoritesList from "./components/FavoritesList";
 import ActorCard from "./components/ActorCard";
 import "./App.css";
